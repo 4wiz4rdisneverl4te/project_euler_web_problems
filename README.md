@@ -1,3 +1,3 @@
 # Project Euler
 
-Python solutions to the Project Euler exercises https://projecteuler.net/
+My Python solutions to the Project Euler exercises https://projecteuler.net/
